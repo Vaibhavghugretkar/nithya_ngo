@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nithya_ngo/static/css/main.4d9a02f3.css",
+    "main.js": "/nithya_ngo/static/js/main.5a6fc699.js",
+    "static/js/592.04e76ffa.chunk.js": "/nithya_ngo/static/js/592.04e76ffa.chunk.js",
+    "static/media/bloodStain1-removebg-preview.png": "/nithya_ngo/static/media/bloodStain1-removebg-preview.f8d54c6ffd573e5dd839.png",
+    "index.html": "/nithya_ngo/index.html",
+    "main.4d9a02f3.css.map": "/nithya_ngo/static/css/main.4d9a02f3.css.map",
+    "main.5a6fc699.js.map": "/nithya_ngo/static/js/main.5a6fc699.js.map",
+    "592.04e76ffa.chunk.js.map": "/nithya_ngo/static/js/592.04e76ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d9a02f3.css",
+    "static/js/main.5a6fc699.js"
+  ]
+}
