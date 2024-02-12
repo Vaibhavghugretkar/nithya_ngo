@@ -1,7 +1,9 @@
 .Navbar{
+  /* background-image: url('../public/nithya_logo-removebg-preview\ \(2\).png');  */
   display:flex ;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
+
 .logo{
   width:100px;
   margin-left:15px;
